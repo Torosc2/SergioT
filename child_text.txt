@@ -1,0 +1,2 @@
+## Add child_text.txt
+print("This a new child text")
